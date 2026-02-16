@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav > a {
+    width: 40%;
+    padding: 1rem;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    border-radius: 1rem;
+}
