@@ -1,0 +1,14 @@
+.button {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 2rem;
+}
+
+.active {
+    color: #5367FF;
+}
+
+.button:hover {
+    cursor: pointer;
+}

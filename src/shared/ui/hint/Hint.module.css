@@ -1,0 +1,22 @@
+.hint {
+    width: 8vh;
+    height: 8vh;
+    background-color: #5367FF;
+    position: absolute;
+    bottom: 1vw;
+    right: 1vw;
+    border-radius: 4vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-top: 0.1rem;
+    text-decoration: none;
+}
+
+.hint:hover {
+    cursor: pointer;
+    background-color: #334BFF;
+}
